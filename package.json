@@ -26,9 +26,9 @@
     "@mdi/font": "^7.3.67",
     "electron-squirrel-startup": "^1.0.1",
     "tasmota-webserial-esptool": "^7.2.3",
-    "vue": "^3.5.11",
-    "vue-i18n": "^11.2.7",
-    "vuetify": "^3.11.5"
+    "vue": "^3.5.27",
+    "vue-i18n": "^11.2.8",
+    "vuetify": "^3.11.7"
   },
   "devDependencies": {
     "@electron-forge/cli": "^7.6.0",
